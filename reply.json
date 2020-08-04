@@ -1,0 +1,18 @@
+{
+	"help|Help|HELP":"Keywords = walk, run, take, turn, grab, climb, creep, lift, examine, pull, open, sit, stand, hide, help",
+	"walk|Walk|WALK":"You walk#You_ _walk#",
+	"run|Run|RUN":"You run#You_ _run#",
+  "take|Take|TAKE":"You take#You_ _take#",
+  "turn|Turn|TURN":"You turn#You_ _turn#",
+  "grab|Grab|GRAB":"You grab#You_ _grab#",
+  "climb|Climb|CLIMB":"You climb#You_ _climb#",
+  "creep|Creep|CREEP":"You creep#You_ _creep#",
+  "lift|Lift|LIFT":"You lift#You_ _lift#",
+  "examine|Examine|EXAMINE":"You examine#You_ _examine#",
+  "pull|Pull|PULL":"You pull#You_ _pull#",
+  "open|Open|OPEN":"You open#You_ _open#",
+  "sit|Sit|SIT":"You sit#You_ _sit#",
+  "stand|Stand|STAND":"You stand#You_ _stand#",
+  "hide|Hide|HIDE":"You stand#You_ _stand#",
+	".":"#origin#"
+}
