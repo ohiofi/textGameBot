@@ -335,7 +335,7 @@ You grab the bag and look inside. It's some kind of food! And the smells, oh the
 You examine the signs at the crossroad. Decision time, what are you going to do.
 You run for your life and manage to escape. You're barely alive. You need to find an inn, as you are very tired, but you also need to try some of this food you have heard so much about.
 You walk into the restaurant. Ah, this looks good, noodles, always loved me a bit of noodles. This is the life, and that warm sun beating down, feels so good.
-You run across the street. You have never seen dragons like this in my life and why are they destroying the kingdom.
+You run across the street. You have never seen dragons like this in your life and why are they destroying the kingdom.
 You examine the street outside. A lot more tourists than you thought, well, you don't really know what you thought. It is quite intimidating though, being this far away from home, being somewhere so strange and unknown.
 You grab the camera. You are sure you'll meet people, just need to get yourself out there.
 You stand and look around. Where is everyone? You are sure once you get to this inn there will be plenty of people.
@@ -343,7 +343,7 @@ You sit at the table and take a bite. Man, this food is delicious. This place lo
 You sit and relax. You're feeling exhausted after all that travel.
 You sit and relax. You should really sleep, but you are so excited; you don't know if you'll be able.
 You open the door. Ah, this looks good, royal food, always loved this stuff at home, now you are eating the real deal. This is the life, and that warm sun beating down, feels so good.
-You run across the street. You have never seen dragons like this in my life and why are they killing the villagers.
+You run across the street. You have never seen dragons like this in your life and why are they killing the villagers.
 You run through the park. A lot more tourists than you thought, well, you don't really know what you thought. It is quite intimidating though, being this far away from home, being somewhere so strange and unknown.
 You examine the scenery outside. You are sure you'll meet people, just need to get yourself out there.
 You take the horse to the inn. It's quiet here. You are sure once you get to this inn there will be plenty of people. Man, this food smells delicious.
@@ -351,7 +351,7 @@ You examine the storefront. This place looks as good as any. Cheap, clean, centr
 You're feeling exhausted after all that travel.
 You should really sleep, but you are so excited; you don't know if you'll be able.
 Ah, this looks good, Tacos food, always loved this stuff at home, now you are eating the real deal. This is the life, and that warm sun beating down, feels so good.
-You have never seen dragons like this in my life and why are they attacking the castle?
+You have never seen dragons like this in your life and why are they attacking the castle?
 A lot more tourists than you thought, well, you don't really know what you thought. It is quite intimidating though, being this far away from home, being somewhere so strange and unknown.
 You are sure you'll meet people, just need to get yourself out there.
 You are sure once you get to this inn there will be plenty of people.This place looks as good as any. Cheap, clean, central, what else could you ask for. Must admit, good to be finally settled.
@@ -378,31 +378,31 @@ You run through the swamp spraying mud everywhere. You just knew you couldn't st
 You turn to the south and then look back. You will and do miss the people at home, but life should be all about taking a chance. Right, never mind this sentimental nonsense. Let's go and see the sights.
 You pull back the curtains and admire the view. Amazing this kingdom, But you don't know if You're feeling it. Don't know what you are feeling. Are you homesick, are you tired, wanting a change of scenery.
 You run as fast as you can and manage to steal Fiona back from Farquaad. You are pretty sure this is everything you wanted, But you think there is something deeply wrong, you are getting seriously restless.
-You walk back to the hideout alone. You will admit, you have had a good day. May be you should just sleep on it, go back to the inn, get my bearings and then see how you feel. Yeah, that's what you'll do.
+You walk back to the hideout alone. You will admit, you have had a good day. May be you should just sleep on it, go back to the inn, get your bearings and then see how you feel. Yeah, that's what you'll do.
 You grab the binoculars and take a look around. You can see far and wide from this vantage-point. Amazing this kingdom, but you don't know if You're feeling it. Don't know what you are feeling. Are you homesick, are you tired, wanting a change of scenery.
 You climb a nearby tree and watch the sunset. You are pretty sure this is everything you wanted, But you think there is something deeply wrong, you are getting seriously restless.
-You creep back to hideout. You will admit, you have had a good day. May be you should just sleep on it, go back to the inn, get my bearings and then see how you feel. Yeah, that's what you'll do.
+You creep back to hideout. You will admit, you have had a good day. May be you should just sleep on it, go back to the inn, get your bearings and then see how you feel. Yeah, that's what you'll do.
 You examine the city. Wow. Amazing... this kingdom, but you don't know if You're feeling it. Don't know what you are feeling. Are you homesick, are you tired, wanting a change of scenery.
 You examine the room. You are pretty sure this is everything you wanted, But you think there is something deeply wrong, you are getting seriously restless.
-You run back to the hideout. You will admit, you have had a good day. May be you should just sleep on it, go back to the inn, get my bearings and then see how you feel. Yeah, that's what you'll do.
+You run back to the hideout. You will admit, you have had a good day. May be you should just sleep on it, go back to the inn, get your bearings and then see how you feel. Yeah, that's what you'll do.
 You climb out of bed. That was a good sleep, but you are still unsure what to do.
 You grab the mystical amulet. There is no harm in going home, at least you tried. But what If you don't, why don't you try and stay, It'll get better, It could end up amazing, go out for some food, and just get on with it, this is what you wanted after all.
-You turn to the west. You suppose that since you have the money, you could go to another country on my list, give that a try. Why are you so indecisive.
+You turn to the west. You suppose that since you have the money, you could go to another country on your list, give that a try. Why are you so indecisive.
 You stand and stretch. That was a good sleep, but you are still unsure what to do.
 You turn to the east. There is no harm in going home, at least you tried. But what If you don't, why don't you try and stay, It'll get better, It could end up amazing, go out for some food, and just get on with it, this is what you wanted after all.
-You take the bag and find $10,000 inside. You suppose that since you have the money, you could go to another country on my list, give that a try. Why are you so indecisive.
+You take the bag and find $10,000 inside. You suppose that since you have the money, you could go to another country on your list, give that a try. Why are you so indecisive.
 That was a good sleep, but you are still unsure what to do.
 You take the bag, but it's empty. There is no harm in going home, at least you tried. But what If you don't, why don't you try and stay, It'll get better, It could end up amazing, go out for some food, and just get on with it, this is what you wanted after all.
-You run as fast as you can. You suppose that since you have the money, you could go to another country on my list, give that a try. Why are you so indecisive.
-You stand and leave. Ah well, here you are back in the rain, in my old room. Maybe it is wet and miserable, but at least it's home, where my friends and family are. At least you tried, not many people do, maybe you just wasn't ready, you can try again in a few months, just need to mature a little, maybe need a companion.
+You run as fast as you can. You suppose that since you have the money, you could go to another country on your list, give that a try. Why are you so indecisive.
+You stand and leave. Ah well, here you are back in the rain, in your old room. Maybe it is wet and miserable, but at least it's home, where your friends and family are. At least you tried, not many people do, maybe you just wasn't ready, you can try again in a few months, just need to mature a little, maybe need a companion.
 You sit and suddenly feel very tired. I'll go for a sleep, wake in the morning and get back to life, hoping that something is round the corner.
 You take the boat and cross the river at night. So here you are, off to another country, see what its like.
 You take the boat and cross the river at night. You know this time is going to be great, just stay positive, remember it's not home and that is a good thing, remember how unhappy you was there. Different people, different place, different food.
 You take the bag. It's empty. Keep trying, keep going till the day you have found that something that you know you are searching for.
-You lift the sword, but it's too heavy and you immediately drop it. You are sure nothing like this is easy at first. Strange faces and country, far away from home. Once you meet people and get yourself out there it will be the experience of a lifetime, might even change my life, just need to a small step into the unknown, might be scary, but isn't everything.
+You lift the sword, but it's too heavy and you immediately drop it. You are sure nothing like this is easy at first. Strange faces and country, far away from home. Once you meet people and get yourself out there it will be the experience of a lifetime, might even change your life, just need to a small step into the unknown, might be scary, but isn't everything.
 You take the horse. Since you are staying might as well go out and get yourself some grub, try and meet some people, see if there is somewhere new to go and discover.
 You take the sword. Might as well, only been here a short time, give it a good go.
-You examine the book, but can't read it. You are sure nothing like this is easy at first. Strange faces and country, far away from home. Once you meet people and get yourself out there it will be the experience of a lifetime, might even change my life, just need to a small step into the unknown, might be scary, but isn't everything.
+You examine the book, but can't read it. You are sure nothing like this is easy at first. Strange faces and country, far away from home. Once you meet people and get yourself out there it will be the experience of a lifetime, might even change your life, just need to a small step into the unknown, might be scary, but isn't everything.
 You grab the mystical amulet. Since you are staying might as well go out and get yourself some grub, try and meet some people, see if there is somewhere new to go and discover.
 You sit and relax by the river. Man, glad You've decided to stay, you just have to take a chance at life. Think I'd miss the food more than anything.
-You walk across the street. Might as well take a chance, you think yer man is trying to say something. You're going to have a wonderful adventure in my beautiful country."
+You walk across the street. Might as well take a chance, you think yer man is trying to say something. You're going to have a wonderful adventure in your beautiful country."
